@@ -12,7 +12,7 @@
   </div>
 
 ------------------------------------------------------------------
-- Etapa: T3_N1
+- Etapa: T2_N1
 - Disciplina: POO
 - Professor: <a href="https://github.com/rogermsarmento" target="_blank" rel="external">Roger Sarmento</a>
 - Data Entrega: 25/04/2023
